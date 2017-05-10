@@ -7,7 +7,7 @@ Here live some scripts and graphs for analyzing time predictions on The Blue All
 You should probably use a python Virtual Environment for this. Install the dependencies with:
 
 ```
-pip install -r requirement.txt
+pip install -r requirements.txt
 ```
 
 ## TBA Dependencies
