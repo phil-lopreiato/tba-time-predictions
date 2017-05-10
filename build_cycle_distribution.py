@@ -10,7 +10,7 @@ import os
 from datetime import timedelta
 
 start = os.getcwd()
-os.chdir('/home/phil/Documents/Code/the-blue-alliance')
+os.chdir('../the-blue-alliance')
 try:
     import dev_appserver
     dev_appserver.fix_sys_path()
